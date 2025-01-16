@@ -1,7 +1,5 @@
 # Escola da Nuvem ☁️🌍
 
-## TCC Escola da Nuvem
-
 ## Created by :🙋🏾‍♂️
 
 - Guilherme Geronymo
@@ -9,3 +7,7 @@
 - William Medeiros
 - Danilo Nakasawa
 - Wendell Patriota
+
+### Foco: Segurança em nuvem
+
+### 
