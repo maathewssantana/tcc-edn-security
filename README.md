@@ -22,7 +22,7 @@ _A startup Nova Tech, está criando um e-commerce. O time responsável pela infr
 
 ![chrome_lPOpjOTszy](https://github.com/user-attachments/assets/3fb9f091-9a17-4451-a0e4-4c1563621720)
 
-## Tecnlogias utilizadas no projeto.
+##  <div align="center"> Tecnlogias utilizadas no projeto.</div>
 
 ### Amazon Route 53
 -_Realiza funções fundamentais relacionadas ao roteamento de tráfego e gerenciamento de nomes de domínio._
@@ -71,11 +71,11 @@ utilizado para fazer backup de dados, hospedar sites estáticos, armazenar arqui
 
 # ARQUITETURA PROPOSTA
 
-## Diagrama do fluxo ✅
+##  <div align="center">Diagrama do fluxo ✅</div>
 
 ![tcc-escola-da-nuvem-segurança drawio](https://github.com/user-attachments/assets/0d05d583-2065-4cda-a09e-8b1e384746a9)
 
-# CUSTO DA PROPOSTA
+#  <div align="center"> CUSTO DA PROPOSTA</div>
 
 https://calculator.aws/#/estimate?id=7973aeb29da522253a3f6957f85b1469df7b5fa9
 
