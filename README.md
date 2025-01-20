@@ -1,4 +1,4 @@
-# TCC Escola da Nuvem ☁️🌍
+ # <div align="center"> # TCC Escola da Nuvem ☁️🌍 </div>
 
 ## Created by :🙋🏾‍♂️
 
@@ -8,13 +8,13 @@
 - Danilo Nakasawa
 - Wendell Patriota
 
-### Foco: Segurança em nuvem
+ Meta: Segurança em Cloud ☁️
 
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 # AWS Re/Start R2 | Turma: BRSAO160
 
-# OBJETIVO
+# <div align="center"> OBJETIVO </div>
 
 _A startup Nova Tech, está criando um e-commerce. O time responsável pela infraestrutura decidiu contratar uma consultoria para evoluir sua arquitetura. Tendo disponível para investimento um aporte inicial de até $10.000,00 para compromissos de longo prazo, além de um orçamento mensal de $500,00 para gastos adicionais recorrentes na nuvem AWS. A Nova Tech deseja uma arquitetura baseada nas melhores práticas da AWS._
 
