@@ -14,7 +14,7 @@
 
 # OBJETIVO
 
-A startup Nova Tech, está criando um e-commerce. O time responsável pela infraestrutura decidiu contratar uma consultoria para evoluir sua arquitetura. Tendo disponível para investimento um aporte inicial de até $10.000,00 para compromissos de longo prazo, além de um orçamento mensal de $500,00 para gastos adicionais recorrentes na nuvem AWS. A Nova Tech deseja uma arquitetura baseada nas melhores práticas da AWS.
+_A startup Nova Tech, está criando um e-commerce. O time responsável pela infraestrutura decidiu contratar uma consultoria para evoluir sua arquitetura. Tendo disponível para investimento um aporte inicial de até $10.000,00 para compromissos de longo prazo, além de um orçamento mensal de $500,00 para gastos adicionais recorrentes na nuvem AWS. A Nova Tech deseja uma arquitetura baseada nas melhores práticas da AWS._
 
 ## Situação atual da empresa!
 
