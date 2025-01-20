@@ -23,49 +23,49 @@ A startup Nova Tech, está criando um e-commerce. O time responsável pela infra
 ## Tecnlogias utilizadas no projeto.
 
 ### Amazon Route 53
--Realiza funções fundamentais relacionadas ao roteamento de tráfego e gerenciamento de nomes de domínio.
+-_Realiza funções fundamentais relacionadas ao roteamento de tráfego e gerenciamento de nomes de domínio._
 
 ### AWS Web Application Firewall (WAF)
--Ajuda a proteger aplicações web ou APIs contra ataques e tráfego malicioso, permitindo que você controle o tráfego que chega às suas aplicações.
+-_Ajuda a proteger aplicações web ou APIs contra ataques e tráfego malicioso, permitindo que você controle o tráfego que chega às suas aplicações._
 
 ### AWS Systems Manager
-- Fornece ferramentas para monitorar, gerenciar configurações e automatizar tarefas administrativas
+- _Fornece ferramentas para monitorar, gerenciar configurações e automatizar tarefas administrativas_
 
 ### AWS Key Management Service (KMS)
-- Facilita a criação e o gerenciamento de chaves de criptografia, além de controlar seu uso em aplicações e serviços da AWS.
+- _Facilita a criação e o gerenciamento de chaves de criptografia, além de controlar seu uso em aplicações e serviços da AWS._
 
 ### AWS CloudTrail
-- Registra e armazena informações sobre ações realizadas nos recursos da sua conta, como chamadas de API feitas por usuários, serviços da AWS, funções do IAM e contas confiáveis.
+- _Registra e armazena informações sobre ações realizadas nos recursos da sua conta, como chamadas de API feitas por usuários, serviços da AWS, funções do IAM e contas confiáveis._
 
 ### AWS Security Hub
-- Ajuda a centralizar, organizar e monitorar as questões de segurança em seus ambientes na nuvem. Oferece uma visão abrangente da 
-segurança em toda a sua infraestrutura AWS
+- _Ajuda a centralizar, organizar e monitorar as questões de segurança em seus ambientes na nuvem. Oferece uma visão abrangente da 
+segurança em toda a sua infraestrutura AWS_
 
 ### AWS CloudWatch
-- Permite coletar e acessar métricas, logs e eventos para obter uma visão detalhada da performance dos seus recursos e diagnosticar problemas rapidamente.
+- _Permite coletar e acessar métricas, logs e eventos para obter uma visão detalhada da performance dos seus recursos e diagnosticar problemas rapidamente._
 
 ### Amazon Elastic Compute Cloud (EC2)
-- Projetado para fornecer capacidade de computação escalável na nuvem. Ele permite que você crie e gerencie servidores virtuais (chamados de instâncias) para executar suas aplicações de maneira flexível e segura.
+- _Projetado para fornecer capacidade de computação escalável na nuvem. Ele permite que você crie e gerencie servidores virtuais (chamados de instâncias) para executar suas aplicações de maneira flexível e segura._
 
 ### Amazon S3
-- Projetado para armazenar e recuperar 
+- _Projetado para armazenar e recuperar 
 qualquer quantidade de dados a qualquer momento, de qualquer lugar. amplamente 
-utilizado para fazer backup de dados, hospedar sites estáticos, armazenar arquivos de grandes dimensões e como armazenamento de dados para aplicativos e serviços.
+utilizado para fazer backup de dados, hospedar sites estáticos, armazenar arquivos de grandes dimensões e como armazenamento de dados para aplicativos e serviços._
 
 ### Amazon Virtual Private Cloud (VPC)
-- Permite criar uma rede isolada dentro da nuvem da AWS, onde você pode configurar recursos como instâncias EC2, bancos de dados RDS, e muito mais, de maneira controlada e segura.
+- _Permite criar uma rede isolada dentro da nuvem da AWS, onde você pode configurar recursos como instâncias EC2, bancos de dados RDS, e muito mais, de maneira controlada e segura._
 
 ### Amazon Aurora
-- Banco de dados relacional compatível com MySQL e PostgreSQL, desenvolvido pela Amazon Web Services (AWS). Ele oferece desempenho superior ao MySQL tradicional.
+- _Banco de dados relacional compatível com MySQL e PostgreSQL, desenvolvido pela Amazon Web Services (AWS). Ele oferece desempenho superior ao MySQL tradicional._
 
 ### Elastic Load Balancing (ELB)
-- Distribui automaticamente o tráfego de entrada de rede ou de aplicativos para múltiplas instâncias de Amazon EC2 ou contêineres, garantindo alta disponibilidade, escalabilidade e resiliência para as aplicações..
+- _Distribui automaticamente o tráfego de entrada de rede ou de aplicativos para múltiplas instâncias de Amazon EC2 ou contêineres, garantindo alta disponibilidade, escalabilidade e resiliência para as aplicações.._
 
 ### Elastic Load Balancing (ELB)
-- Distribui automaticamente o tráfego de entrada de rede ou de aplicativos para múltiplas instâncias de Amazon EC2 ou contêineres, garantindo alta disponibilidade, escalabilidade e resiliência para as aplicações..
+- _Distribui automaticamente o tráfego de entrada de rede ou de aplicativos para múltiplas instâncias de Amazon EC2 ou contêineres, garantindo alta disponibilidade, escalabilidade e resiliência para as aplicações.._
 
 ### Amazon Shield Standard
-- Fornece defesa básica contra ataques DDoS, protegendo os aplicativos hospedados na AWS contra os efeitos de ataques que visam interromper a disponibilidade de serviços, como websites ou aplicativos na nuvem.
+- _Fornece defesa básica contra ataques DDoS, protegendo os aplicativos hospedados na AWS contra os efeitos de ataques que visam interromper a disponibilidade de serviços, como websites ou aplicativos na nuvem._
 
 # ARQUITETURA PROPOSTA
 
