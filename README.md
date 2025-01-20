@@ -10,6 +10,8 @@
 
 ### Foco: Segurança em nuvem
 
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
 # AWS Re/Start R2 | Turma: BRSAO160
 
 # OBJETIVO
