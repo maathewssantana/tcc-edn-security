@@ -8,7 +8,7 @@
 - Danilo Nakasawa
 - Wendell Patriota
 
- Meta: Segurança em Cloud ☁️
+ ### Meta: Segurança em Cloud ☁️
 
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
