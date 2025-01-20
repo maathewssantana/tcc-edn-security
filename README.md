@@ -79,6 +79,6 @@ https://calculator.aws/#/estimate?id=7973aeb29da522253a3f6957f85b1469df7b5fa9
 
 ![custo](https://github.com/user-attachments/assets/905d53fc-7b4e-482d-aca6-4f0509b6dedd)
 
-Equipe que trabalhou no projeto.
+## Equipe que trabalhou no projeto.
 ![equipe](https://github.com/user-attachments/assets/1ffd5895-9820-43d3-85b0-2441ffbe4544)
 
